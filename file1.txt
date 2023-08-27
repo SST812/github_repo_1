@@ -1,3 +1,4 @@
 this is first line in file1.txt, created using command cat > file1.txt in git bash
 added second line using vi file1.txt in git bash
-added third line in master branch to raise conflict with newbranch
+line from master: added third line in master branch to raise conflict with newbranch
+line from newbranch: added third line, when in newnewbranch
