@@ -1,0 +1,1 @@
+this is first line in file1.txt, created using command cat > file1.txt in git bash
