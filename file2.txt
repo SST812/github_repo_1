@@ -1,1 +1,2 @@
 this is first line in file1.txt, created using command cat > file1.txt in git bash
+second line added in file2.txt in github ui
